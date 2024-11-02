@@ -1,0 +1,13 @@
+# Function dependencies, for example:
+# package>=version
+requests
+langchain
+langchain_experimental
+langchain_openai
+langchain-elasticsearch
+langchain_community
+pandas
+mysql-connector-python
+google-api-python-client
+SQLAlchemy
+pyarrow
