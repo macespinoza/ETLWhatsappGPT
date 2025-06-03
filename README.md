@@ -52,11 +52,13 @@ El modelo de chatbot en WhatsApp utiliza la base vectorizada creada por este ETL
 
 ---
 
-## Desarrollado por
-
-**MAC: Miguel Angel Cotrina**  
-[LinkedIn](https://www.linkedin.com/in/mcotrina/)
-
 ---
 
-Este proyecto es de código abierto y está disponible para la comunidad con el propósito de mejorar la integración de datos para aplicaciones de inteligencia artificial y chatbots en WhatsApp.
+## 🤝 Conecta conmigo
+
+Gracias por revisar este repositorio.  
+Si te interesa colaborar, aprender más o invitarme a dar una charla, puedes escribirme o seguirme en LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Cotrina-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mcotrina/)
+
+> IA & Data con propósito
