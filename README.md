@@ -11,6 +11,10 @@ Este proyecto proporciona un proceso ETL (Extract, Transform, Load) que permite 
 - **requirements.txt**: Lista de las dependencias necesarias para ejecutar el proyecto.
 - **mysqlsampledatabase.sql**: Base de datos de muestra en formato SQL para pruebas de desarrollo.
 
+## 🗺️ Arquitectura
+
+![Arquitectura](arquitectura.jpg)
+
 ## Despliegue en Google Cloud Functions
 
 Este proyecto está diseñado para ser desplegado fácilmente en **Google Cloud Functions**. Sigue estos pasos para el despliegue:
